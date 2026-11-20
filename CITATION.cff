@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use or adapt this skill, please cite it as below. It was created by NMG under the mentorship of EO as part of the OE4BW 2026 programme."
+type: software
+title: "STEAM-SEL Lesson Designer: an AI skill for arts-integrated Social-Emotional Learning"
+version: "1.8"
+date-released: "2026-11-18"
+authors:
+  - name: "NMG"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/nmg-002/steam-sel-lesson-designer"
+url: "https://github.com/nmg-002/steam-sel-lesson-designer"
+abstract: >-
+  An open AI skill that helps educators weave doodling, music and drama into
+  any subject so that learners build Empathy, Mindfulness, Critical Inquiry
+  and Compassion (EMC²), with optional links to real-world issues and the
+  Sustainable Development Goals. It interviews the educator one
+  multiple-choice question at a time, then writes lesson plans and classroom
+  resources. Created by NMG under the mentorship of EO as part of the OE4BW 2026
+  programme, based on Keep Calm
+  and STEAM Ahead! Handbook for Educators, Edition 2 (2026). Drafted with the help of AI
+  (Claude, by Anthropic) and reviewed by the creator.
+keywords:
+  - social-emotional learning
+  - arts integration
+  - STEAM education
+  - open educational resources
+  - AI skill
+  - lesson planning
+  - Sustainable Development Goals
+  - EMC2
+references:
+  - type: book
+    title: "Keep Calm and STEAM Ahead! Handbook for Educators"
+    edition: "2"
+    authors:
+      - name: "NMG"
+    year: 2026
+    notes: "Edition 2 (2026). Chapters 1-4 (first published as Edition 1, 2025) developed under the mentorship of GBC, with the support of Hub-Coordinator AD, OE4BW 2025 programme; Chapter 5 on the SDGs developed under the mentorship of EO, OE4BW 2026 programme. Licensed CC BY-NC-SA 4.0."
+    url: "https://gomesnatasha.in/2025/09/28/keep-calm-and-steam-ahead/"
